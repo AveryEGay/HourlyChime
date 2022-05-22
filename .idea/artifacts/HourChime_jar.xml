@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HourChime:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HourChime_jar</output-path>
+    <root id="archive" name="HourChime.jar">
+      <element id="module-output" name="HourChime" />
+    </root>
+  </artifact>
+</component>
